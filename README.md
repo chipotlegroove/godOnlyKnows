@@ -1,1 +1,4 @@
 # godOnlyKnows
+Equipo:
+
+Jared Barojas
